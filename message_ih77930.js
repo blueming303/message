@@ -115,7 +115,7 @@ function _0x439e(_0x161336, _0x4f861b) {
         return _0x1663e0;
     }, _0x439e(_0x161336, _0x4f861b);
 }
-setInterval(myTimer, 0x30d4);
+setInterval(myTimer, 0x3c8c);
 
 function myTimer() {
     var _0x340215 = _0x593b50;
